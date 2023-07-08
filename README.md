@@ -1,4 +1,4 @@
-# knowl-ai-code-docs
+# Generate & Manage Code Documents with Knowl AI & Rich Text Editor
 This GitHub Action allows you to generate and auto-update code documentation for your entire repository using Knowl AI. By utilizing high-quality and trusted documents, you can increase your team's productivity and support your code effectively.
 
 Currently, the following languages are supported: JavaScript, Typescript, Node.js, Python, and Java, with more languages on the way.
