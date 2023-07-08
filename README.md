@@ -1,5 +1,5 @@
 # knowl-ai-code-docs
-Action to generate code documentation for the entire repository using Knowl AI.Increase your and your team's productivity by using high-quality, trusted documents that support your code.
+Action to generate code documentation for the entire repository with Knowl AI. Increase your and your team's productivity by using high-quality, trusted documents that support your code.
 
 Languages Supported Node.js, javascript, typescript.js, python, java. More on the way...
 
