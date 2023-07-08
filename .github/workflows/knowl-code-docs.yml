@@ -1,5 +1,5 @@
-name: Generate Code Documents
-run-name: Generate Code Documents
+name: Knowl Code Documents
+run-name: Knowl Code Documents
 on: [workflow_dispatch]
 
 jobs:
